@@ -36,6 +36,11 @@ DOMAINLINK™ extends every existing domain with:
 - Programmable Commerce
 
 One Domain. Multiple Revenue Layers.
+- Enterprise Ready
+- REST API
+- AI Commerce
+- Blockchain Verified
+- Global Payments at Flat Fees of only $0.50
 
 LIVE INFRASTRUCTURE! NOT A DEMO!
 
@@ -132,6 +137,19 @@ https://www.worldblockchainbank.io/
 
 - 📖 DOMAINLINK™ Enterprise Flipbook
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
+
+
+Regulatory Status:
+
+DomainLink, and WorldBankPay, operating under World Blockchain Bank (WBB), is a registered Money Services Business (MSB) with the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN), Registration No. 31000286291846, and holds D-U-N-S® No. 119413613.
+
+​
+Although duly registered, WBB currently provides non-custodial blockchain infrastructure only and does not engage in direct money transmission, payment processing, or custody of client funds. All users remain fully responsible for their own wallets, transactions, legal and regulatory compliance as per our Merchant Agreement.
+
+​
+No Banks. No Gatekeepers. No Delays. No Limits. No Excuses.
+
+Just 8 Lines of Freedom! https://blockchaintrust.hflip.co/Merchant-Agreement.html
 
 Contact
 
