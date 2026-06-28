@@ -62,12 +62,12 @@ WorldBankPay Checkout https://checkout.worldbankpay.io/domains/5333/
 Ready For Global Payments
 
 The same concept can be applied to existing domains such as:
-- google.com
-- microsoft.com
-- amazon.com
-- visa.com
-- crypto.com
-- godaddy.com
+- google.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1660
+- microsoft.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1657
+- amazon.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5522
+- visa.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5511
+- crypto.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1876
+- godaddy.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5510
 
 DOMAINLINK™ integrates seamlessly with all your existing domains:
 
