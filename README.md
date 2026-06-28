@@ -9,6 +9,7 @@ No migration.
 No rebranding.
 No new website.
 Simply activate the domain you already own.
+<img width="1054" height="1492" alt="DOMAINLINK™ ENTERPRISE-1" src="https://github.com/user-attachments/assets/67cc559d-e492-4253-8f62-e03233e4d8bb" />
 
 Why DOMAINLINK™?
 Traditional domains provide:
