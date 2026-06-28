@@ -73,6 +73,7 @@ WorldBankPay Checkout https://checkout.worldbankpay.io/domains/5333/
 Ready For Global Payments
 
 The same concept can be applied to existing domains such as:
+
 - google.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1660
 - microsoft.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1657
 - amazon.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5522
@@ -80,13 +81,17 @@ The same concept can be applied to existing domains such as:
 - crypto.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1876
 - godaddy.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5510
 
-<img width="1054" height="1492" alt="DOMAINLINK™ ENTERPRISE-4" src="https://github.com/user-attachments/assets/21522f95-3d56-4c09-9a91-0d2e9d0192f9" />
+
+<img width="1055" height="1491" alt="DOMAINLINK™ ENTERPRISE-6" src="https://github.com/user-attachments/assets/a3985825-f3df-429a-9cb3-10667194185a" />
 
 DOMAINLINK™ integrates seamlessly with all your existing domains:
 
 - No migration.
 - No disruption.
 - No change to the existing website.
+
+<img width="1054" height="1492" alt="DOMAINLINK™ ENTERPRISE-4" src="https://github.com/user-attachments/assets/21522f95-3d56-4c09-9a91-0d2e9d0192f9" />
+
 
 Enterprise Applications
 
