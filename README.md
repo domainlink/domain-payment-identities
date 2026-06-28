@@ -150,7 +150,7 @@ https://www.worldblockchainbank.io/
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
 
 
-VERIFY BEFORE YOU BUY:
+- VERIFY BEFORE YOU BUY:
 https://www.domainlink.world/verify-before-you-buy
 
 
