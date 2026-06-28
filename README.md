@@ -56,16 +56,16 @@ WorldBankPay Checkout https://checkout.worldbankpay.io/domains/5333/
 Ready For Global Payments
 
 The same concept can be applied to existing domains such as:
-google.com
-microsoft.com
-amazon.com
-visa.com
-crypto.com
-godaddy.com
+-google.com
+-microsoft.com
+-amazon.com
+-visa.com
+-crypto.com
+-godaddy.com
 
-No migration.
-No disruption.
-No change to the existing website.
+-No migration.
+-No disruption.
+-No change to the existing website.
 
 Enterprise Applications
 
