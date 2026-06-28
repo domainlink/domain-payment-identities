@@ -150,6 +150,10 @@ https://www.worldblockchainbank.io/
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
 
 
+VERIFY BEFORE YOU BUY:
+https://www.domainlink.world/verify-before-you-buy
+
+
 Regulatory Status:
 
 DomainLink, and WorldBankPay, operating under World Blockchain Bank (WBB), is a registered Money Services Business (MSB) with the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN), Registration No. 31000286291846, and holds D-U-N-S® No. 119413613.
