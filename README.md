@@ -1,11 +1,13 @@
 # domain-payment-identities
+DOMAINLINK™
+
+The Internet Already Has Billions Of Domains.
+
+We Built The Financial Infrastructure They Never Had.
 Activate existing domains as programmable payment identities for global payments, AI commerce and enterprise infrastructure.
 
-DOMAINLINK™
-Activate Existing Domains As Programmable Financial Identities
 
-The Internet already has hundreds of millions of domains.
-Most function as websites and email addresses.
+Most domains function as websites and email addresses.
 DOMAINLINK™ enables existing domains to become programmable financial identities for global payments, enterprise commerce, AI agents, and digital financial infrastructure.
 
 - No migration.
