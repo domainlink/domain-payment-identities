@@ -122,13 +122,16 @@ It activates them.
 
 Learn More
 
-🌐 DOMAINLINK™
+- 🌐 DOMAINLINK™
 https://www.domainlink.world/ 
-🌐 World Blockchain Bank
+
+- 🌐 World Blockchain Bank
 https://www.worldblockchainbank.io/ 
-📖 DOMAINLINK™ Enterprise Flipbook
+
+- 📖 DOMAINLINK™ Enterprise Flipbook
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
 
 Contact
+
 For enterprise licensing, developer partnerships, registry integrations, and strategic collaborations, please contact us through the websites above or via email:
 domainlink@worldblockchainbank.io 
