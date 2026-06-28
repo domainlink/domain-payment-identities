@@ -1,6 +1,7 @@
 # domain-payment-identities
 
-<img width="1536" height="1024" alt="DOMAINLINK™ ENTERPRISE-COVER BANNER" src="https://github.com/user-attachments/assets/100a656e-2b4b-4ffb-891e-0ba0de0a317d" />
+<img width="1536" height="1024" alt="DOMAINLINK™ ENTERPRISE-COVER BANNER" src="https://github.com/user-attachments/assets/7d91cca9-4c4c-4a99-8547-14d836b02002" />
+
 
 DOMAINLINK™
 
