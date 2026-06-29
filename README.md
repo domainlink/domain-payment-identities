@@ -115,7 +115,7 @@ The same concept could apply to any TLD, including:
 The objective is not to replace your registry infrastructure.
 The objective is to increase the value of the domains and namespaces you already manage.
 
-Live Demonstrations
+Live Infrastructure
 
 - .VISA / agents.visa
 
@@ -244,7 +244,16 @@ One Payment Address.
 
 One Flat Fee.
 
-Contact
+# The Internet Already Has Its Domain Infrastructure.
+
+What it doesn't have...
+
+is programmable financial infrastructure.
+
+DOMAINLINK™ activates what already exists.
+
+- One Domain.
+- Multiple Revenue Layers.
 
 For enterprise licensing, developer partnerships, registry integrations, and strategic collaborations, please contact us through the websites above or via email:
 domainlink@worldblockchainbank.io 
