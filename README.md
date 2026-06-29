@@ -207,8 +207,11 @@ https://worldbankpay.io/
 - 📖 DOMAINLINK™ Enterprise Flipbook
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
 
-- VERIFY BEFORE YOU BUY:
+- 🌐 VERIFY BEFORE YOU BUY:
 https://www.domainlink.world/verify-before-you-buy
+
+- 🌐 WORLDPATENTS SMART CONTRACT:
+https://www.domainlink.world/worldpatents
 
 <img width="1570" height="785" alt="WORLD BLOCKCHAIN BANK SOVEREIGN INFRASTRUCTURE" src="https://github.com/user-attachments/assets/90fc0561-5940-454b-96f0-6ffbaa0ba2bf" />
 
