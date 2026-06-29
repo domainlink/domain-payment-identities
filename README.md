@@ -85,19 +85,22 @@ The same concept can be applied to existing domains such as:
 <img width="1055" height="1491" alt="DOMAINLINK™ ENTERPRISE-6" src="https://github.com/user-attachments/assets/a3985825-f3df-429a-9cb3-10667194185a" />
 
 Demonstration 2 — Registry-Level Activation
+
 The same architecture can also be applied at the registry level.
+
 Example:
-.VISA
+
+- .VISA
 ↓
-agents.visa
+- agents.visa
 ↓
-Blockchain Registry
+- Blockchain Registry
 ↓
-Blockchain Verification
+- Blockchain Verification
 ↓
-Financial Identity Infrastructure
+- Financial Identity Infrastructure
 ↓
-AI Commerce
+- AI Commerce
 
 The same concept could apply to any TLD, including:
 
@@ -114,7 +117,7 @@ The objective is to increase the value of the domains and namespaces you already
 
 Live Demonstrations
 
-.VISA / agents.visa
+- .VISA / agents.visa
 
 - Blockchain Registry
 https://polygonscan.com/nft/0xe42bba02ca306821563d6f1045d58040a019c89c/5532 
