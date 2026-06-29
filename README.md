@@ -80,7 +80,10 @@ The same concept can be applied to existing domains such as:
 - visa.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5511
 - crypto.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/1876
 - godaddy.com https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5510
-
+- ROOT TLD: .GODADDY 
+- OpenSea: agents.godaddy https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5533 
+- PolygonScan: agents.godaddy https://polygonscan.com/nft/0xe42bba02ca306821563d6f1045d58040a019c89c/5533
+- WorldBankPay: agents.godaddy https://checkout.worldbankpay.io/domains/5533/
 
 <img width="1055" height="1491" alt="DOMAINLINK™ ENTERPRISE-6" src="https://github.com/user-attachments/assets/a3985825-f3df-429a-9cb3-10667194185a" />
 
