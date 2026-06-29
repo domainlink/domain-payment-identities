@@ -84,6 +84,47 @@ The same concept can be applied to existing domains such as:
 
 <img width="1055" height="1491" alt="DOMAINLINK™ ENTERPRISE-6" src="https://github.com/user-attachments/assets/a3985825-f3df-429a-9cb3-10667194185a" />
 
+Demonstration 2 — Registry-Level Activation
+The same architecture can also be applied at the registry level.
+Example:
+.VISA
+↓
+agents.visa
+↓
+Blockchain Registry
+↓
+Blockchain Verification
+↓
+Financial Identity Infrastructure
+↓
+AI Commerce
+
+The same concept could apply to any TLD, including:
+
+- .VIP
+- .BANK
+- .SHOP
+- .AI
+- .LAW
+- .MUSIC
+- .HOTEL
+
+The objective is not to replace your registry infrastructure.
+The objective is to increase the value of the domains and namespaces you already manage.
+
+Live Demonstrations
+
+.VISA / agents.visa
+
+- Blockchain Registry
+https://polygonscan.com/nft/0xe42bba02ca306821563d6f1045d58040a019c89c/5532 
+
+- Blockchain Verification
+https://opensea.io/item/polygon/0xe42bba02ca306821563d6f1045d58040a019c89c/5532 
+
+- WorldBankPay Demonstration
+https://checkout.worldbankpay.io/domains/5532/ 
+
 DOMAINLINK™ integrates seamlessly with all your existing domains:
 
 - No migration.
