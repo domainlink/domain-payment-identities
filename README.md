@@ -195,6 +195,9 @@ Learn More
 - 🌐 DOMAINLINK™
 https://www.domainlink.world/ 
 
+- 🌐 DOMAINLINK™ IDENTITY ROOTS & TLD REGISTRY
+https://www.domainlink.cloud/
+
 - 🌐 World Blockchain Bank
 https://www.worldblockchainbank.io/
 
