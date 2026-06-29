@@ -188,13 +188,18 @@ Learn More
 https://www.domainlink.world/ 
 
 - 🌐 World Blockchain Bank
-https://www.worldblockchainbank.io/ 
+https://www.worldblockchainbank.io/
+
+- 🌐 WorldBankPay - Sovereign Settlement Rails
+https://worldbankpay.io/ 
 
 - 📖 DOMAINLINK™ Enterprise Flipbook
 https://blockchaintrust.hflip.co/DOMAINLINK.html 
 
 - VERIFY BEFORE YOU BUY:
 https://www.domainlink.world/verify-before-you-buy
+
+<img width="1570" height="785" alt="WORLD BLOCKCHAIN BANK SOVEREIGN INFRASTRUCTURE" src="https://github.com/user-attachments/assets/90fc0561-5940-454b-96f0-6ffbaa0ba2bf" />
 
 
 Regulatory Status:
@@ -209,7 +214,40 @@ No Banks. No Gatekeepers. No Delays. No Limits. No Excuses.
 
 Just 8 Lines of Freedom! https://blockchaintrust.hflip.co/Merchant-Agreement.html
 
+# Flat-Fee Global Settlement
+
+WorldBankPay™ enables programmable settlement using a simple flat-fee model.
+
+## Instead of
+
+• Percentage-based processing
+• Variable transaction fees
+• Multiple intermediary costs
+
+## DOMAINLINK™ enables
+
+✓ Flat Fee
+
+**$0.50 per transaction**
+
+Designed for:
+
+- Enterprise Commerce
+- Global Merchants
+- AI Commerce
+- Machine-to-Machine Payments
+- Registry Ecosystems
+
+One Identity.
+
+One Payment Address.
+
+One Flat Fee.
+
 Contact
 
 For enterprise licensing, developer partnerships, registry integrations, and strategic collaborations, please contact us through the websites above or via email:
 domainlink@worldblockchainbank.io 
+
+<img width="1055" height="1491" alt="DOMAINLINK™ ENTERPRISE-15" src="https://github.com/user-attachments/assets/96d4c643-c826-4ccb-b0e5-52e616221ad7" />
+
