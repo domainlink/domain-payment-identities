@@ -222,6 +222,9 @@ No Banks. No Gatekeepers. No Delays. No Limits. No Excuses.
 
 Just 8 Lines of Freedom! https://blockchaintrust.hflip.co/Merchant-Agreement.html
 
+<img width="1024" height="1333" alt="WorldBankPay - Sovereign Settlement Rails" src="https://github.com/user-attachments/assets/494ea565-e40c-4c8d-bd8d-dfabff9d419b" />
+
+
 # Flat-Fee Global Settlement
 
 WorldBankPay™ enables programmable settlement using a simple flat-fee model.
